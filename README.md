@@ -1,2 +1,0 @@
-# pizza
-Thinkful first upload
